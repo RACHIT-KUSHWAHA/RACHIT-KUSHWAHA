@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @RACHIT-KUSHWAHA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 **Code like a machine, think like an artist, and live like a legend.
 
-<!---
-RACHIT-KUSHWAHA/RACHIT-KUSHWAHA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi there, I'm **Rachit Kushwaha** 👋  
+#### 🛠️ Tech Enthusiast | 🎨 Graphics Designer | 🚀 Lifelong Learner  
+
+---
+
+## 🔥 About Me  
+- 🏡 **From:** India  
+- 💻 **Hobbies:** Coding, Editing, Learning New Skills  
+- 🎓 **Age:** 20  
+- 🧑‍🎓 **Profession:** Student  
+
+---
+
+## 🌐 Connect with Me  
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/beyondrachit)  
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/beyondrachit)  
+
+---
+
+## 💻 Skills  
+🎯 **Thumbnail Designer**  
+🎥 **Video Editor**  
+🎨 **Graphics Designer**  
+📚 **Always Learning More...**  
+
+---
+
+## 📊 GitHub Stats  
+| ![Rachit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RACHIT-KUSHWAHA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RACHIT-KUSHWAHA&theme=dark&hide_border=false) |
+|:--:|:--:|
+
+---
+
+## 🔥 Language Usage  
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RACHIT-KUSHWAHA&theme=dark&hide_border=false&layout=compact" height="180" width="400"> | <img src="https://github-contributor-stats.vercel.app/api?username=RACHIT-KUSHWAHA&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400"> |
+|:--:|:--:|
+
+---
+
+### 🚀 _"Keep Learning, Keep Growing, Keep Hustling!"_ 🔥
